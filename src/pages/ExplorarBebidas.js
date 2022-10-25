@@ -28,6 +28,7 @@ function ExplorarBebidas() {
           onClick={ handleClickExploreDrinksByIngredient }
           data-testid="explore-by-ingredient"
           className="settingExplorarButtons"
+          disabled
         >
           Por Ingredientes
         </button>

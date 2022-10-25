@@ -33,6 +33,7 @@ function ExplorarComidas() {
           onClick={ handleClickExploreMealsByIngredient }
           data-testid="explore-by-ingredient"
           className="settingExplorarButtons"
+          disabled
         >
           Por Ingredientes
         </button>

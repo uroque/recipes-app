@@ -8,4 +8,3 @@ Technologies used in this project:
   - ReactJS
   - Context API
   - CSS
-  - 
